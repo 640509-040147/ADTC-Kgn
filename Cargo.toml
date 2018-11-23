@@ -1,0 +1,14 @@
+[package]
+name = "ADTC-Kgn"
+version = "0.1.0"
+authors = ["vikram <gitvikram@gmail.com>"]
+
+[dependencies]
+rand = "0.6.0"
+promptly = "0.1.5"
+
+[profile.dev]
+opt-level = 0
+
+[profile.release]
+opt-level = 3
