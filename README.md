@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/durbdaa492i8nah8?svg=true)](https://ci.appveyor.com/project/v-i-k-r-a-m/adtc-kgn)
+=======
+
 # ADTC-Kgn    
 
 ## Key Generation    
@@ -61,4 +64,3 @@ for example no. of PCs = 500
 So xxxxxx = 000500    
 If M = 0 and J = 5, then 000500 = MMMJMM    
 [NRSP-QJMC-SCxx-MCSJ-xxxxxx] becomes [NRSP-QJMC-SCxx-MCSJ-MMMJMM]    
-
