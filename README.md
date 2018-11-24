@@ -6,23 +6,23 @@
 ## Key Generation    
 
 ### Software Editions    
-"SG", Single License 1 PC
-"PS", Personal License 3 PCs
-"HM", Home License 10 PCs
-"TM", Team License (> 10 PCs) 
-"EP", Enterprise License (>100 PCs)
+"SG", Single License 1 PC    
+"PS", Personal License 3 PCs    
+"HM", Home License 10 PCs    
+"TM", Team License (> 10 PCs)     
+"EP", Enterprise License (>100 PCs)    
 
 ### Character mappings    
-M = 0
-Q = 1
-S = 2
-Y = 3
-L = 4
-J = 5
-Z = 6
-C = 7
-H = 8
-G = 9
+M = 0    
+Q = 1    
+S = 2    
+Y = 3    
+L = 4    
+J = 5    
+Z = 6    
+C = 7    
+H = 8    
+G = 9    
 
 ### Key Construction    
 Key length >=19    
