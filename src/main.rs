@@ -47,6 +47,8 @@ fn num_to_string(num: u32) -> String {
             num_vec.push("MMM")
         } else if num < 10000 {
             num_vec.push("MM")
+        }else if num <100000 {
+            num_vec.push("M")
         }
 
         while n > 0 {
